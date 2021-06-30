@@ -15,3 +15,4 @@ ggplot(data = tabledt, aes(datef, dT2))+
   geom_path()
 ggplot(data = tabledt, aes(datef, dT16))+
   geom_path()
+help("plot")
